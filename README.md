@@ -1,6 +1,6 @@
 #Detaliere cerinte
 
-###Cerinta 1
+###**_Cerinta 1_**
 ####Vor fi create relații între entități de toate tipurile: @OneToOne, @OneToMany, @ManyToOne, 
 @ManyToMany. 
 
